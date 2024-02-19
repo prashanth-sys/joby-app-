@@ -10,6 +10,7 @@
     "autoprefixer": "^10.4.17",
     "director": "^1.2.8",
     "gsap": "^3.12.5",
+    "path-browserify": "^1.0.1",
     "postcss": "^8.4.35",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
